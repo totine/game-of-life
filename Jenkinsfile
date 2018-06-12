@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('asdf') {
       steps {
-        build 'fff'
+        build 'game-of-life'
       }
     }
   }
